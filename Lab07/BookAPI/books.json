@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "author": "John Smith",
+    "price": 1500
+  },
+  {
+    "id": 2,
+    "title": "Data Structures Made Easy",
+    "author": "Sarah Johnson",
+    "price": 1800
+  },
+  {
+    "id": 3,
+    "title": "Web Development Basics",
+    "author": "Michael Brown",
+    "price": 1200
+  }
+]
